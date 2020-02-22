@@ -1,9 +1,5 @@
-/*
- * - Define variables
- * - Calculate the document height and set the offset to a quarter of that value
- * - Add the event listeners for scroll and click
- */
-var btt = document.getElementById('back-to-top'),
+
+let btt = document.getElementById('back-to-top'),
 	body = document.body,
 	docElem = document.documentElement,
 	offset = 100,

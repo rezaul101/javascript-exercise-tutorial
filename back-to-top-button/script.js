@@ -1,4 +1,3 @@
-
 let btt = document.getElementById('back-to-top'),
 	body = document.body,
 	docElem = document.documentElement,
